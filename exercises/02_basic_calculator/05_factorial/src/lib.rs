@@ -10,6 +10,12 @@
 //
 // Use only what you learned! No loops yet, so you'll have to use recursion!
 
+pub fn factorial(n: u8) {
+    if n == 0 {
+        
+    }   
+}
+
 #[cfg(test)]
 mod tests {
     use crate::factorial;
